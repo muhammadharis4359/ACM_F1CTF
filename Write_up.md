@@ -2,7 +2,7 @@
 ## 🚗 Challenge Write-Up: Circuit Heist
 
 **Category:** Web  
-**Difficulty:** Medium  
+**Difficulty:** Hard  
 **Challenge Title:** *Circuit Heist*  
 
 **Description:**  
@@ -102,22 +102,3 @@ Once Carloz's balance is **greater than 2000**, visiting `/admin` shows:
 
 ---
 
-### 🛠️ Tools/Techniques Used
-
-- HTML Form Manipulation
-- Burp Suite for Request Interception
-- Bypassing Client-Side Validation
-- Float Injection Exploit
-- HTTP Parameter Pollution (HPP)
-
----
-
-### 💡 Takeaways
-
-This challenge focuses on:
-- Client-side trust issues
-- Data validation bypass techniques
-- Multiple parameter injection (HPP)
-- Real-world style banking manipulation concepts
-
-An excellent showcase of critical web exploitation vectors!
